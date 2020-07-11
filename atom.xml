@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://swordsban.github.io/swordsban</id>
     <title>呓语呢喃</title>
-    <updated>2020-05-17T12:27:04.154Z</updated>
+    <updated>2020-07-11T08:06:38.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://swordsban.github.io/swordsban"/>
     <link rel="self" href="http://swordsban.github.io/swordsban/atom.xml"/>
@@ -19,6 +19,18 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>到头来，那只被压死的骆驼大概到最后也不知道是骆驼的错还是稻草的错。</p>
 <!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>http://swordsban.github.io/swordsban/about/</id>
+        <link href="http://swordsban.github.io/swordsban/about/">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>木本生活  本来的生活<br>
+<img src="http://swordsban.github.io/swordsban/post-images/1594454713551.png" alt="" loading="lazy"></p>
+</blockquote>
 ]]></content>
     </entry>
 </feed>

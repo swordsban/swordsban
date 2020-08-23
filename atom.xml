@@ -2,23 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://swordsban.github.io/swordsban</id>
     <title>呓语呢喃</title>
-    <updated>2020-08-23T08:41:03.723Z</updated>
+    <updated>2020-08-23T08:41:20.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://swordsban.github.io/swordsban"/>
     <link rel="self" href="http://swordsban.github.io/swordsban/atom.xml"/>
     <logo>http://swordsban.github.io/swordsban/images/avatar.png</logo>
     <icon>http://swordsban.github.io/swordsban/favicon.ico</icon>
     <rights>All rights reserved 2020, 呓语呢喃</rights>
-    <entry>
-        <title type="html"><![CDATA[压死骆驼的最后一根稻草]]></title>
-        <id>http://swordsban.github.io/swordsban/O2bTOT4X3/</id>
-        <link href="http://swordsban.github.io/swordsban/O2bTOT4X3/">
-        </link>
-        <updated>2020-05-17T12:23:10.000Z</updated>
-        <summary type="html"><![CDATA[<p>到头来，那只被压死的骆驼大概到最后也不知道是骆驼的错还是稻草的错。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>到头来，那只被压死的骆驼大概到最后也不知道是骆驼的错还是稻草的错。</p>
-<!-- more -->
-]]></content>
-    </entry>
 </feed>
